@@ -1,36 +1,19 @@
-# Private Archive Vault
+# Internal Archive Vault
 
 ## Overview
+This is a **restricted repository** for the long-term preservation of legacy code, deprecated projects, and internal configurations. 
+It acts as a secure storage layer for institutional knowledge and historical implementations that have been retired from active production.
 
-This repository serves as a **private archive vault** for outdated and deprecated projects. It contains historical code, configurations, and workflows that are no longer actively maintained or in production use.
+> [!WARNING]
+> **Internal Reference Only**
+> This vault contains unmaintained code with likely security vulnerabilities and outdated dependencies.
+> It is strictly for reference and audit purposes; **never** deploy or execute these projects in a production environment.
 
-## Purpose
-
-The primary purposes of this vault are to:
-
-- **Preserve Legacy Code**: Maintain historical records of past projects and implementations
-- **Reference Archive**: Provide access to deprecated codebases for reference or recovery purposes
-- **Documentation**: Retain institutional knowledge from completed or discontinued projects
-- **Compliance**: Meet regulatory or organizational requirements for code retention
-
-## Important Notes
-
-⚠️ **The contents of this repository are not actively maintained**
-
-- Projects stored here are considered **outdated** or **deprecated**
-- Code may contain security vulnerabilities or compatibility issues
-- Dependencies and libraries are likely out of date
-- **Not recommended for production use**
-
-## Usage
-
-This archive is intended for:
-
-- Historical reference and documentation purposes
-- Recovery of specific code snippets or configurations when needed
-- Analysis of past architectural decisions
-- Compliance and audit requirements
+## Access & Purpose
+* **Knowledge Retention:** Preserving internal architectural decisions for future technical audits.
+* **Recovery:** Secure access to legacy snippets or configurations for internal migration.
+* **Compliance:** Meeting data retention policies and legal requirements.
+* **Security:** Centralizing deprecated code to prevent accidental use in current pipelines.
 
 ---
-
-*For active projects and current development work, please refer to the organization's main repositories.*
+**Note:** Access to this vault is managed via Organization RBAC. For active development, please refer to our primary production repositories.
