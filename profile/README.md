@@ -1,7 +1,7 @@
-# Internal Archive Vault
+# Elhaus Vault
 
 ## Overview
-This is a **restricted repository** for the long-term preservation of legacy code, deprecated projects, and internal configurations. 
+This is a **restricted organization** for the long-term preservation of legacy code, deprecated projects, and internal configurations. 
 It acts as a secure storage layer for institutional knowledge and historical implementations that have been retired from active production.
 
 > [!WARNING]
